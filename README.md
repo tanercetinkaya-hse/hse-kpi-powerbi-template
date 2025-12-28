@@ -1,4 +1,4 @@
-# HSE KPI Power BI Template
+# HSE KPI Power BI Template by Taner Cetinkaya
 
 ## Download
 - [Download Excel Template](./HSE_KPI_Template.xlsx)
