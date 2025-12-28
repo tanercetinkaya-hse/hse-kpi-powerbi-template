@@ -36,3 +36,7 @@ This repository contains an Excel-based HSE KPI data structure and a connected P
 ## Sharing
 If you choose to share your Power BI visuals publicly, feel free to post them on LinkedIn and tag me.  
 I’d be glad to see how the dashboards look in different environments.
+
+Best Regards,
+Taner Cetinkaya
+https://www.linkedin.com/in/tanercetinkaya/ 
