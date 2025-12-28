@@ -6,8 +6,8 @@ This template includes:
 - Sample data for demonstration
 
 ## Download
-- [Download Excel Template](./HSE_KPI_Template.xlsx)
-- [Download Power BI File](./HSE_KPI_Dashboard.pbix)
+- [Download Excel Template](https://github.com/tanercetinkaya-hse/hse-kpi-powerbi-template/raw/main/HSE%20KPI%20Excel%20Template%20for%20PowerBI.xlsx)
+- [Download Power BI File](https://github.com/tanercetinkaya-hse/hse-kpi-powerbi-template/raw/main/HSE%20KPI%20PowerBI%20Template%20-%20V.0%20-%2028%20Dec%202025.pbix)
 
 ## Notes
 Replace sample data in the DataCall sheet with your own workplace names.
